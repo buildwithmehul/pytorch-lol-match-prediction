@@ -72,10 +72,34 @@ Final Model Performance (after tuning):
 - Recall: 49%
 - F1-score: 50%
 - ROC AUC: 0.505
+
 ⚠️ Note: Performance is close to random guess (50%).
 This shows the dataset is very challenging and may need feature engineering, deeper models, or additional domain-specific insights.
 
 ---
 
+✨ Future Improvements
 
+- Add neural network layers (MLP instead of plain logistic regression).
+- Try dropout & batch normalization to reduce overfitting.
+- Use advanced optimizers / schedulers.
+- Perform feature selection / engineering from raw match stats.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit PRs.
+
+---
+
+## 🎓 Certificate
+[Introduction to Neural Network and PyTorch](https://www.coursera.org/account/accomplishments/certificate/AOJ1ARS7O1VV)
+
+---
+
+📜 License
+
+This project is for educational purposes.
+You are free to use/modify under the [MIT License]()
    
