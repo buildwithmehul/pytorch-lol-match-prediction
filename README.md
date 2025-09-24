@@ -101,5 +101,5 @@ Contributions are welcome! Feel free to open issues or submit PRs.
 📜 License
 
 This project is for educational purposes.
-You are free to use/modify under the [MIT License]()
+You are free to use/modify under the [MIT License](https://github.com/buildwithmehul/pytorch-lol-match-prediction/blob/main/LICENSE)
    
