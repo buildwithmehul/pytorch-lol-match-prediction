@@ -26,3 +26,56 @@ It uses match statistics (kills, deaths, assists, gold earned, etc.) to **predic
 - **pandas, numpy, matplotlib**
 
 ---
+## 📂 Project Structure
+<pre>
+
+DL with PyTorch Final Project
+├── venv/
+├── league_of_legends_data_large.csv                                  # Dataset (not included, add your own CSV)
+├── Final_Project_League_of_Legends_Match_Predictor_v2_completed      # Jupyter notebooks
+├── requirements.txt                                                  # Dependencies
+├── README.md                                                         # Project description
+└── .gitignore                                                        # Ignore unnecessary files
+
+</pre>
+---
+ 
+## 🚀 How to Run
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/pytorch-lol-match-prediction.git
+   cd pytorch-lol-match-prediction
+   ```
+2. Create a virtual environment & install dependencies:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # (Linux/Mac)
+   venv\Scripts\activate      # (Windows)
+   pip install -r requirements.txt
+   ```
+3. Download the Dataset:
+   
+4. Run the notebook / script:
+   ```bash
+   jupyter notebook Final_Project.ipynb
+   ```
+
+---
+
+## 📊 Results
+
+Final Model Performance (after tuning):
+
+- Accuracy: 50%
+- Precision: 51%
+- Recall: 49%
+- F1-score: 50%
+- ROC AUC: 0.505
+⚠️ Note: Performance is close to random guess (50%).
+This shows the dataset is very challenging and may need feature engineering, deeper models, or additional domain-specific insights.
+
+---
+
+
+   
