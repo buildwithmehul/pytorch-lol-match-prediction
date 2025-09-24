@@ -55,6 +55,8 @@ DL with PyTorch Final Project
    pip install -r requirements.txt
    ```
 3. Download the Dataset:
+
+   [Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/rk7VDaPjMp1h5VXS-cUyMg/league-of-legends-data-large.csv)
    
 4. Run the notebook / script:
    ```bash
@@ -94,12 +96,14 @@ Contributions are welcome! Feel free to open issues or submit PRs.
 ---
 
 ## 🎓 Certificate
+
 [Introduction to Neural Network and PyTorch](https://www.coursera.org/account/accomplishments/certificate/AOJ1ARS7O1VV)
 
 ---
 
-📜 License
+## 📜 License
 
 This project is for educational purposes.
+
 You are free to use/modify under the [MIT License](https://github.com/buildwithmehul/pytorch-lol-match-prediction/blob/main/LICENSE)
    
