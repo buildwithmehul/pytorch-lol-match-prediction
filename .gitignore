@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.pkl
+*.pickle
+*.h5
+*.pt
+*.pth
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_save
+*.ipynb_checkpoints/
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs & outputs
+*.log
+*.out
+*.err
+
+# Data 
+data/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.json
+
+# Checkpoints & model weights
+checkpoints/
+runs/
+wandb/
+lightning_logs/
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db
